@@ -1,8 +1,6 @@
-#
 # Name: Quang Nguyen
 # File: date.py
 # Desc: Determines the day of the week from the date
-#
 
 # Leap year function
 def isLeapYear(year):
